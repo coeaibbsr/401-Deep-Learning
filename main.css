@@ -1025,3 +1025,17 @@ ul#archive li span a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto; }
+
+.people-pics{
+  width:30%; 
+  float: left;
+
+}
+
+@media screen and (max-width:450px){
+  .people-pics{
+    width: 50%;
+
+  }
+
+}
