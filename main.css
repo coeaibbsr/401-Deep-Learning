@@ -852,11 +852,11 @@ ul#archive li span.postlower a {
   font-weight: normal;
   font-family: "Open Sans", Helvetica, Arial, sans-serif; }
 
-article ul {
-  list-style-type: none; }
+/* article ul {
+  list-style-type: none; } */
 
 article ul > li:before {
-  content: "–";
+  /* content: "–"; */
   /* en dash */
   position: absolute;
   margin-left: -1.1em; }
